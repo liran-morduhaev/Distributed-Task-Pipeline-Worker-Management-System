@@ -1,0 +1,2 @@
+class ResourceCapacityException(Exception):
+    pass
